@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ea07955-c9fe-467b-ade3-ad8d981d0144": {
+      "ProjectGuid": "7ea07955-c9fe-467b-ade3-ad8d981d0144",
+      "DisplayName": "EventManagementSystem",
+      "ColorIndex": 0
+    },
+    "62b7d09b-e01a-4c4d-a086-b665d80e8149": {
+      "ProjectGuid": "62b7d09b-e01a-4c4d-a086-b665d80e8149",
+      "DisplayName": "EventManagementSystem",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
